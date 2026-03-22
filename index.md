@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
-# Welcome to Digital Trust Vault 🚀
+# Digital Trust Vault 🚀
 
-Your site is live!
+Welcome to your deployed site!
+
+This is your homepage.
